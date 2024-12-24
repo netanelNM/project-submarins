@@ -1,6 +1,6 @@
 //
 //
-//				Maid by Tsvi and Netanel
+//				Maid by  Netanel
 //
 //
 #define _CRT_SECURE_NO_WARNINGS
